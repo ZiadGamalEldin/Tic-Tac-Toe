@@ -23,15 +23,7 @@ Players take turns placing their symbol on the grid.
 
 The objective is to align the required number of symbols horizontally, vertically, or diagonally before the opponent does.
 
-Larger boards and higher difficulties introduce deeper strategy and longer matches.
-
----
-
-## 📥 Download & Play
-
-👉 Download the latest version from the **Releases** section  
-👉 Extract the archive (if needed)  
-👉 Run the executable — no installation required  
+Larger boards and higher difficulties introduce deeper strategy and longer matches.  
 
 ---
 
@@ -49,6 +41,11 @@ Larger boards and higher difficulties introduce deeper strategy and longer match
 
 ---
 
+## 📥 Download & Play
+
+👉 Download the latest version from the **Releases** section  
+👉 Extract the archive (if needed)  
+👉 Run the executable — no installation required
 
 ---
 
