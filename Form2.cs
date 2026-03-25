@@ -144,7 +144,7 @@ namespace TicTacToe
 
             bool VsPC = (_Opponent == enOpponent.enPlayerVsPC)? true : false;
             
-            Form1 f = new Form1(txtPlayer1Name.Text , 'X' , txtPlayer2Name.Text , 'O' , _Size , 30 , 60 , 60 , new Point (525 - ((_Size - 3) * 40), 250 - ((_Size - 3) * 55)) , (byte)nudRounds.Value , VsPC , _Difficulty);
+            Form1 f = new Form1(txtPlayer1Name.Text , 'X' , txtPlayer2Name.Text , 'O' , _Size , 30 , 60 , 60 , new Point (525 - ((_Size - 3) * 40), 200 - ((_Size - 3) * 55)) , (byte)nudRounds.Value , VsPC , _Difficulty);
             f.ShowDialog();
         }
 
